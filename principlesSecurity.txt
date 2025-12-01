@@ -1,0 +1,5 @@
+Identify risks, check current security, ask employees to fill out a survey on their Cybersecurity knowledge, and find areas that need updating.
+Set a procedure for checking emails. Ensuring employees follow this procedure will decrease the chance of them falling for a scam.
+Train employees on Cybersecurity, help employees understand, detect, and avoid scams, and update protocols on what to do when an employee detects a scam.
+Constant updates, checking in on the processes and procedures to update and improve said processes and procedures.
+Organize roles, with clear and defined roles for employees the company can make sure data is going where it needs to.

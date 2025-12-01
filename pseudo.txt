@@ -1,0 +1,21 @@
+request positive numbers from user
+checks for the largest numbers
+print the largest number
+
+request user's name
+store name in variable caled "first_name"
+  print first_name and the phrase "Hello, World"
+  
+input multiple integers
+prints avarage of integers
+
+get item list 
+select what items have been bought
+sort remaining items in alphabetical order
+print list of items remaining
+
+input variable "X" and "Y"
+find "S" by adding "X" and "Y"
+find "A" by dividing "S" by "2"
+find "P" by multiplying "X" by "Y"
+print "S", "A", "P"
