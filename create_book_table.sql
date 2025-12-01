@@ -1,0 +1,7 @@
+CREATE TABLE Books (
+book_id CHAR(4) PRIMARY KEY,
+book_title TEXT NOT NULL,
+authorID CHAR(4) NOT NULL,
+quantity INTEGER NOT NULL,
+
+FOREIGN KEY(authorID) REFERENCES AUTHORS(authorID));

@@ -1,0 +1,6 @@
+CREATE TABLE Authors (
+ID CHAR(4) PRIMARY KEY,
+Author_name TEXT NOT NULL,
+Country TEXT NOT NULL
+
+);
