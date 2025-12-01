@@ -1,0 +1,8 @@
+bcrypt==5.0.0
+cffi==2.0.0
+cryptography==46.0.1
+distlib==0.4.0
+filelock==3.19.1
+platformdirs==4.4.0
+pycparser==2.23
+virtualenv==20.34.0

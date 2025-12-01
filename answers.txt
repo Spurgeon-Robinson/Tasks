@@ -1,0 +1,8 @@
+1. A protocol is a set of rules that are adopted for particular tasks
+2. TCP Transmission Control Protocol and IP Internet Protocol
+3. 200s
+4. HTTP is a stateless protocol, which means that every request is separate from the last.
+5. HTTPS
+6. You'll receive an error, and the SSH will refuse to connect.
+7. b. c. d. e. f.
+8. 500s

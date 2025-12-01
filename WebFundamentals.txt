@@ -1,0 +1,16 @@
+1. WEB 3.0 is the next generation of the World Wide Web.
+   It is different from WEB 1.0 and WEB 2.0 because it integrates
+   AI (Artificial Intelligence), Cloud-based file sharing will
+   take over, and live streams replace blogs.
+
+2. The front-end of a web application is where the user will
+   see and interact with the web page; it uses HTML, CSS,
+   and JavaScript. The Back-end refers to the server-side,
+   such as returning the web page and storing/fetching user data.
+   It's also called the data access layer.
+
+3. After you enter the URL into your address bar on your browser,
+   the browser sends a request to a server asking for that URL.
+   The server then sends the appropriate URL back to your browser, 
+   and the browser translates all the code it received into words,
+   graphics, and videos.
